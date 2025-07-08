@@ -88,7 +88,7 @@
          - Harmonic if $\overrightarrow{F}=-k\overrightarrow{s}$
          - Uniformly circular if $\overrightarrow{F}\perp v$
      ### 3. Third principle (action and reaction):
-     - $ \overrightarrow{F}_{A\rightarrow{B}}=-\overrightarrow{F}_{B\rightarrow{A}}$
+     - \overrightarrow{F}_{A\rightarrow{B}}=-\overrightarrow{F}_{B\rightarrow{A}}
    - ### Chapter 3 (Static)
 
    ## Chemistry's description
