@@ -8,7 +8,7 @@
      ### 1. eq_result: $x=\overline{x}\pm i_{x}$
      ### 2. average: $\overline{x}=\frac{\sum_{i=0}^{n}x_{i}}{n}$
      ### 3. Errors:
-       - $E_{c}=\frac{x_{max}-x_{min}}{2}$
+       - E_{c}=\frac{x_{max}-x_{min}}{2}
        - $\epsilon_{x}=\frac{i_{x}}{x}$ 
        If you need it as a percentage, you can multiply it by 100%
      ### 4. Uncertainty:
